@@ -6,13 +6,13 @@
 
     <groupId>ch.javaee.demo</groupId>
     <artifactId>angular2</artifactId>
-    <version>0.1.1-SNAPSHOT</version>
+    <version>0.1.2-SNAPSHOT</version>
     <packaging>pom</packaging>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.4.0.RELEASE</version>
+        <version>1.4.1.RELEASE</version>
     </parent>
     <modules>
         <module>server</module>
